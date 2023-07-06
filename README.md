@@ -1,16 +1,18 @@
-### Hi there 👋
+**무언갈 만들고 사람들이 사용하는 것을 좋아하는 개발자입니다**
 
-<!--
-**JangHyeonChul/JangHyeonChul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+***
 
-Here are some ideas to get you started:
+**Profile**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+이름 : 장현철 (Jang Hyeon Chul)
+
+생년월일 : 1997 - 03 - 16
+
+이메일 : wkdgus1136@gmail.com
+
+Notion : https://www.notion.so/Jang-Hyeon-Chul-ce3faa6a3b51448094b4b1439acc791d
+
+
+
+
+
