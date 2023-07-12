@@ -10,7 +10,7 @@
 
 이메일 : wkdgus1136@gmail.com
 
-Notion : https://www.notion.so/Jang-Hyeon-Chul-ce3faa6a3b51448094b4b1439acc791d
+Notion : [https://www.notion.so/Jang-Hyeon-Chul-ce3faa6a3b51448094b4b1439acc791d](https://janghyeonchul.notion.site/Jang-Hyeon-Chul-ce3faa6a3b51448094b4b1439acc791d?pvs=4)
 
 
 
