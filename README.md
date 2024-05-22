@@ -1,18 +1,41 @@
-**무언갈 만들고 사람들이 사용하는 것을 좋아하는 개발자입니다**
+<div align="center">
 
-***
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=JangHyeonChul&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/JangHyeonChul)
 
-**Profile**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000003&random=false&width=435&lines=Hello%2C+My+Interesting+Develop+Repo)](https://git.io/typing-svg)
 
-이름 : 장현철 (Jang Hyeon Chul)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JangHyeonChul&show_icons=true&theme=radical)
 
-생년월일 : 1997 - 03 - 16
+<h1>📚 STACKS</h1>
 
-이메일 : wkdgus1136@gmail.com
+<div align=center> 
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+  <br>
+  
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+  <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+  <br>
+  
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+  <br>
+  
+  
+  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
+  <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+  
+  <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <br>
 
-Notion : [https://www.notion.so/Jang-Hyeon-Chul-ce3faa6a3b51448094b4b1439acc791d](https://janghyeonchul.notion.site/Jang-Hyeon-Chul-ce3faa6a3b51448094b4b1439acc791d?pvs=4)
+  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
+  <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
+  <br>
+  
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <br>
+</div>
 
-
-
-
+  </div>
 
