@@ -1,41 +1,55 @@
 <div align="center">
+  
+![banner](https://github.com/user-attachments/assets/33ae9755-4f18-4d83-97d7-21a7e62e5e2b)
 
+------
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=JangHyeonChul&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/JangHyeonChul)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000003&random=false&width=435&lines=Hello%2C+My+Interesting+Develop+Repo)](https://git.io/typing-svg)
+<h2 align="center">🏆 Github Trophy 🏆</h2>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JangHyeonChul&show_icons=true&theme=radical)
+[![trophy](https://github-profile-trophy.vercel.app/?username=JangHyeonChul)](https://github.com/ryo-ma/github-profile-trophy)
 
-<h1>📚 STACKS</h1>
+<h2 align="center">📊 Github Stats 📊</h2>
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Github Stats</strong></h3>
+      <p align="center">
+        <a href="https://github.com/Kiran1689">
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=JangHyeonChul&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Streak Stats</strong></h3>
+      <p align="center">
+        <a href="https://github.com/Kiran1689">
+          <img align="center" src="https://streak-stats.demolab.com?user=JangHyeonChul&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+<br />
 
-<div align=center> 
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
-  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
-  <br>
-  
-  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
-  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
-  <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-  <br>
-  
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
-  <br>
-  
-  
-  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
-  <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-  
-  <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <br>
+<h2 align="center">📈 Tier Stats 📈</h2>
 
-  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
-  <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
-  <br>
-  
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <br>
-</div>
-
-  </div>
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Github Stats</strong></h3>
+      <p align="center">
+<a href="https://opgc.me/#/users/JangHyeonChul" target="_blank"><img src="https://prd-opgc-api.opgc.me/githubs/users/JangHyeonChul/tag/?theme=basic" /></a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Streak Stats</strong></h3>
+      <p align="center">
+        <a href="https://solved.ac/wkdgus1136" target="_blank">
+          <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wkdgus1136" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
