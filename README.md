@@ -43,7 +43,7 @@
       </p>
     </td>
     <td width="50%">
-      <h3 align="center"><strong>Streak Stats</strong></h3>
+      <h3 align="center"><strong>Boj Rank</strong></h3>
       <p align="center">
         <a href="https://solved.ac/wkdgus1136" target="_blank">
           <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wkdgus1136" />
