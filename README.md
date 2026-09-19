@@ -28,17 +28,17 @@
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/Java-2b1b3d?style=flat-squite)
+![Java](https://img.shields.io/badge/Java-2b1b3d?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2b1b3d?style=flat-square&logo=springboot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-2b1b3d?style=flat=white)
+![Python](https://img.shields.io/badge/Python-2b1b3d?style=flat-square&logo=python&logoColor=white)
 
 ![Hadoop](https://img.shields.io/badge/Hadoop-6d4c7d?style=flat-square&logo=apachehadoop&logoColor=white)
 ![Hive](https://img.shields.io/badge/Hive-6d4c7d?style=flat-square&logo=apachehive&logoColor=white)
-![Spark](https://img.shields.io/badge/Spark-6d4c7d?style=flat-slor=white)
+![Spark](https://img.shields.io/badge/Spark-6d4c7d?style=flat-square&logo=apachespark&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-6d4c7d?style=flat-square&logo=scikitlearn&logoColor=white)
 
 ![Docker](https://img.shields.io/badge/Docker-c56a90?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-c56a90?style=flat-squarColor=white)
+![AWS](https://img.shields.io/badge/AWS-c56a90?style=flat-square&logo=amazonwebservices&logoColor=white)
 
 </div>
 
@@ -49,6 +49,14 @@
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=JangHyeonChul&hide_border=true&background=00000000&ring=c56a90&fire=c56a90&currStreakLabel=c56a90&sideLabels=808080&dates=808080&stroke=6d4c7d" />
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JangHyeonChul/JangHyeonChul/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JangHyeonChul/JangHyeonChul/output/snake-light.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/JangHyeonChul/JangHyeonChul/output/snake-dark.svg" />
+</picture>
 
 </div>
 
@@ -65,4 +73,3 @@
 <img src="https://komarev.com/ghpvc/?username=JangHyeonChul&style=flat-square&color=6d4c7d&label=visitors" />
 
 </div>
-
