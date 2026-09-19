@@ -19,8 +19,8 @@
 기록으로 성장하는 백엔드 개발자입니다.
 문제를 풀고 나면 왜 그렇게 풀었는지를 남기는 편이고, 그 기록이 쌓여 [블로그](https://coco16.tistory.com/)와 [포트폴리오](https://JangHyeonChul.github.io)가 되었습니다.
 
-- 🔭 요즘 하는 일 — 자체 서비스 개발
-- 🌱 요즘 배우는 것 — AI Agent 활용 및 자동화, 지식베이스 구축
+- 🔭 요즘 하는 일 — 기획부터 운영까지, 자체 서비스를 직접 만들고 있습니다
+- 🌱 요즘 배우는 것 — AI Agent로 반복 업무를 자동화하고, 흩어진 기록을 지식베이스로 모으는 중
 
 <br>
 
@@ -51,3 +51,18 @@
 <img src="https://streak-stats.demolab.com?user=JangHyeonChul&hide_border=true&background=00000000&ring=c56a90&fire=c56a90&currStreakLabel=c56a90&sideLabels=808080&dates=808080&stroke=6d4c7d" />
 
 </div>
+
+<br>
+
+<div align="center">
+
+![](https://capsule-render.vercel.app/api?type=rect&color=0:c56a90,50:6d4c7d,100:2b1b3d&height=6&section=footer)
+
+<sub>기록은 남고, 남은 기록이 다음을 만듭니다.</sub>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=JangHyeonChul&style=flat-square&color=6d4c7d&label=visitors" />
+
+</div>
+
