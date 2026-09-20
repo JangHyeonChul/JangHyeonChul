@@ -62,6 +62,18 @@
 
 <br>
 
+## 🐾 GitAnimals
+
+<div align="center">
+
+<a href="https://gitanimals.org">
+  <img src="https://render.gitanimals.org/lines/JangHyeonChul?pet-id=1" width="1000" height="120"/>
+</a>
+
+</div>
+
+<br>
+
 <div align="center">
 
 ![](https://capsule-render.vercel.app/api?type=rect&color=0:c56a90,50:6d4c7d,100:2b1b3d&height=6&section=footer)
